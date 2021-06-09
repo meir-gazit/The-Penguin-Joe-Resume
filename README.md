@@ -1,3 +1,3 @@
-# The :penguin: Resume
-plane html css responsive penguin (🐧) resume site<br/>
-<a href="https://meir-gazit-resume.netlify.app/" target="_blank">Live Demo</a>
+# The Penguin Joe :penguin: Resume
+plane html css responsive mobile-first Penguin Joe (🐧) resume site<br/>
+<a href="https://penguin-joe-resume.netlify.app/" target="_blank">Live Demo</a>
